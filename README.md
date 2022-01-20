@@ -4,12 +4,12 @@
 A basic HTML5 Bootstrap template, including the required CSS and JS for Bootstrap to run.
 
 ## Prerquisites
-- Understanding of Bootstrap [Bootsrap] (https://getbootstrap.com/)
+- Understanding of Bootstrap [Bootstrap] (https://getbootstrap.com/)
 - Strong understanding of HTML5
 ## Installation
-- Git must be installed [git] (https://git-scm.com/)
+- Git must be installed [Git] (https://git-scm.com/)
 - Clone repository 'git clone <repo>'
-- Text editor or VS Code [VS code] (https://code.visualstudio.com/)
+- Text editor or VScode [VScode] (https://code.visualstudio.com/)
 ## License
 Open Source Code
 ## Citation
